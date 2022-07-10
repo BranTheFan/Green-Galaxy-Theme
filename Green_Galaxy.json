@@ -1,9 +1,9 @@
 {
 	"manifest": {
-    "author": "Bran",
-    "version": "1.2",
-    "name": "Green Galaxy"
-    "updater": "https://raw.githubusercontent.com/BranTheFan/Green-Galaxy-Theme/main/Green_Galaxy.json"
+		"author": "Bran",
+		"version": "1.3",
+		"name": "Green Galaxy"
+		"updater": "https://raw.githubusercontent.com/BranTheFan/Green-Galaxy-Theme/main/Green_Galaxy.json"
   },
   "fonts":{
     "*" : "https://cdn.discordapp.com/attachments/339081623825940482/994881209798766602/AshleyBreakfastBeta7.ttf"
@@ -38,5 +38,6 @@
   "drawable_tints": {
     "drawable_overlay_channels_selected_dark": -1022508946,
     "drawable_bg_reaction_dark": 671088640
-  }
+	},
+    "raws": {}
 }
