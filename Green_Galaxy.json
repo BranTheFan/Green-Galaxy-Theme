@@ -1,16 +1,15 @@
 {
-  "manifest": {
+	"manifest": {
     "author": "Bran",
-    "version": "1.0",
-    "transparency_mode": 3,
+    "version": "1.2",
     "name": "Green Galaxy"
-    "updater": "https:\/\/raw.githubusercontent.com\/BranTheFan\/Green-Galaxy-Theme\/main/Green_Galaxy.json"
+    "updater": "https://raw.githubusercontent.com/BranTheFan/Green-Galaxy-Theme/main/Green_Galaxy.json"
   },
   "fonts":{
-    "*" : "https:\/\/cdn.discordapp.com\/attachments\/339081623825940482\/994881209798766602\/AshleyBreakfastBeta7.ttf"
+    "*" : "https://cdn.discordapp.com/attachments/339081623825940482/994881209798766602/AshleyBreakfastBeta7.ttf"
   },
   "background": {
-    "url": "https:\/\/i.imgur.com/9gk2CcD.png",
+    "url": "https://i.imgur.com/9gk2CcD.png",
     "blur_radius": 0,
     "overlay_alpha": 200
   },
