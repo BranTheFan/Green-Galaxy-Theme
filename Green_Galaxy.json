@@ -1,7 +1,7 @@
 {
   "manifest": {
     "author": "Bran",
-    "version": "1.52",
+    "version": "1.55",
     "transparency_mode": 3,
     "name": "Green Galaxy Theme",
     "updater": "https:\/\/raw.githubusercontent.com\/BranTheFan\/Green-Galaxy-Theme\/main/Green_Galaxy.json"
@@ -18,7 +18,9 @@
     "mention_highlight": -15875986,
     "accent": -15875986,
     "input_background": 2113929216,
-    "active_channel": -15875986
+    "active_channel": -15875986,
+    "background": 0,
+    "background_secondary": 0,
   },
   "colors": {
     "uikit_settings_item_text_color_light": -1022508946,
