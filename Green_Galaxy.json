@@ -1,7 +1,8 @@
 {
   "manifest": {
     "author": "Bran",
-    "version": "1.5",
+    "version": "1.52",
+    "transparency_mode": 3,
     "name": "Green Galaxy Theme",
     "updater": "https:\/\/raw.githubusercontent.com\/BranTheFan\/Green-Galaxy-Theme\/main/Green_Galaxy.json"
   },
